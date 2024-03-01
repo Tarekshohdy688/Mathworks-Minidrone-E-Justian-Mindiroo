@@ -14,8 +14,10 @@ The whole video: https://drive.google.com/file/d/13b4sDyS9MSYSYnpcHLvLCi1hcmF4s7
 
 --------------------------
 # **Cobntributers**
-Special Thanks to my team members for their effort:
+Special Thanks to my team members for their effort:.
+
 ** Ahmed Anwar: ahmed.gad@ejust.edu.eg 
+
 ** Heba Abu khalil: Heba.abokhalil@ejust.edu.eg 
 
 ----------------------------
