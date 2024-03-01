@@ -1,7 +1,7 @@
 # **Award**
 We got the MathWorks Minidrone'22 Competition 2nd place in MENA (Middle East News Agency) Region, 3rd place in Africa continent, and top 9 in EMEA (Europe, the Middle East and Africa).
 
-Channel1 Egpypt: https://www.youtube.com/watch?v=VaYi7ubr_4s
+Channel1 Egypt: https://www.youtube.com/watch?v=VaYi7ubr_4s
 
 Netalm Masry Newspaper: https://ntalm-masry.com/48556/
 
